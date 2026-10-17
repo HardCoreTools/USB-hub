@@ -1,11 +1,9 @@
-<div align="center">
-
 # USB-hub
 **USB Hub – Product Description  Expand your connectivity instantly with this compact, plug-and-play USB hub. Designed for anyone who has ever run out of ports, it turns a single USB port into multiple, letting you connect your keyboard, mouse, and more all at once.**
 
 ![PCB](https://img.shields.io/badge/PCB-EasyEDA-red)
 
-
+<img src="images/Screenshot 2026-10-17 191218.png" alt="Photo of the finished USB-hub" width="640">
 
 ##  Overview
 
@@ -14,3 +12,24 @@
 It’s a small gadget that gives your laptop more places to plug things in.
 
 Most modern laptops only have one or two USB-C ports, which isn’t much if you want to use a mouse, a keyboard, and a flash drive at the same time. This hub plugs into one of those ports and gives you four new ones: three regular USB ports for your usual accessories, and one more USB-C port for newer devices.
+
+## Cost
+
+
+
+
+## Schematics
+
+**This project was made on EasyEDA**
+
+
+<img src="schematics/SCH_Schematic3_1-P1_2026-10-17.png" alt="Photo of the shematics" width="900">
+
+
+## Repo structure
+
+```
+├── schematics/   Schematic image
+├── pcb/          PCB files
+└── images/       photos and renders
+```
