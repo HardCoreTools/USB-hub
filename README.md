@@ -25,6 +25,12 @@ Most modern laptops only have one or two USB-C ports, which isn’t much if you 
 
 <img src="schematics/SCH_Schematic3_1-P1_2026-10-17.png" alt="Photo of the shematics" width="900">
 
+<img src="images/Screenshot 2026-10-17 191818.png" alt="Photo of the finished USB-hub" width="640">
+
+
+<img src="images/Screenshot 2026-10-17 193030.png" alt="Photo of the finished USB-hub" width="640">
+
+
 
 ## Repo structure
 
