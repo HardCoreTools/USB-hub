@@ -13,8 +13,11 @@ It’s a small gadget that gives your laptop more places to plug things in.
 
 Most modern laptops only have one or two USB-C ports, which isn’t much if you want to use a mouse, a keyboard, and a flash drive at the same time. This hub plugs into one of those ports and gives you four new ones: three regular USB ports for your usual accessories, and one more USB-C port for newer devices.
 
-## Cost
+## Cost JLCPCB
 
+PCB + PCBA = €43.39
+
+<img src="images/Screenshot 2026-10-17 200215.png" alt="Photo of the finished USB-hub" width="700">
 
 
 
