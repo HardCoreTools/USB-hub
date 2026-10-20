@@ -15,9 +15,9 @@ Most modern laptops only have one or two USB-C ports, which isn’t much if you 
 
 ## Cost JLCPCB
 
-PCB + PCBA = €43.39
+LCSC $21.03
 
-<img src="images/Screenshot 2026-10-17 200215.png" alt="Photo of the finished USB-hub" width="700">
+<img src="images/Screenshot 2026-10-20 174416.png" alt="price" width="700">
 
 
 
