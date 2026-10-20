@@ -38,7 +38,11 @@ PCB + PCBA = €43.39
 ## Repo structure
 
 ```
+├── EasyEDA/      EasyEDA file
+├── BOM/          BOM file
+├── Gerber/       Gerber file
+├── PickAndPlace/ PickAndPlace file
 ├── schematics/   Schematic image
-├── pcb/          PCB files
 └── images/       photos and renders
+
 ```
