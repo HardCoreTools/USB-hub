@@ -26,7 +26,7 @@ LCSC $21.03
 **This project was made on EasyEDA**
 
 
-<img src="schematics/SCH_Schematic3_1-P1_2026-10-17.png" alt="Photo of the shematics" width="900">
+<img src="schematics/SCH_Schematic3_1-P1_2026-10-21.png" alt="Photo of the shematics" width="900">
 
 <img src="images/Screenshot 2026-10-17 191818.png" alt="Photo of the finished USB-hub" width="640">
 
