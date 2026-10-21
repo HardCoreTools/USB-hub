@@ -15,9 +15,14 @@ Most modern laptops only have one or two USB-C ports, which isn’t much if you 
 
 ## Cost JLCPCB
 
-LCSC $21.03
+| Name          | Description                                                                   | Price  | Shipping |
+| ------------- | ----------------------------------------------------------------------------- | ------ | -------- |
+| Componenets   | Components from LCSC. Detailed breakdown [here](.BOM/export_cart_20261021_145739.csv) | $4.74  | $14.44   |
+| PCB+Stencil   | PCB and stencil from JLC                                                      | $11,30 | $20,43   |
+| **Sub Total** |                                                                               | $16.04 | $34.87   |
+| **Total**     |                                                                               | $50.91 |          |
 
-<img src="images/Screenshot 2026-10-20 174416.png" alt="price" width="700">
+<img src="images/Screenshot 2026-10-21 085711.png" alt="price" width="700">
 
 
 
